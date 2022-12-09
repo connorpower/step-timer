@@ -1,0 +1,18 @@
+[package]
+name = "step-timer"
+version = "0.0.0"
+edition = "2021"
+authors = ["Connor Power <connor@connorpower.com>"]
+license = "MIT"
+repository = "https://github.com/connorpower/step-timer/"
+description = "A step timer for managing time in game loops on Windows systems, ported from the DirectX C++ toolbox."
+keywords = [
+    "DirectX",
+    "timer",
+    "gameloop",
+    "game",
+]
+categories = [
+    "date-and-time",
+    "game-development",
+]
